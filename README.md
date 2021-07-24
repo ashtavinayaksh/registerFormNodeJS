@@ -31,5 +31,5 @@ The server will start Running on
 + http://localhost:3000/
 
 <h3 align="center">
-    <b>Have a NICE Day❤</b>
+    <b>HAVE A NICE DAY❤</b>
 </h3>
